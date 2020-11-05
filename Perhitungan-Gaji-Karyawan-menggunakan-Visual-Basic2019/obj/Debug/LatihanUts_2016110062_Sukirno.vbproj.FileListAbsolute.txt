@@ -1,0 +1,12 @@
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\obj\Debug\LatihanUts_2016110062_Sukirno.vbprojAssemblyReference.cache
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\obj\Debug\LatihanUts_2016110062_Sukirno.Form1.resources
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\obj\Debug\LatihanUts_2016110062_Sukirno.Resources.resources
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\obj\Debug\LatihanUts_2016110062_Sukirno.vbproj.GenerateResource.cache
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\obj\Debug\LatihanUts_2016110062_Sukirno.vbproj.CoreCompileInputs.cache
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\bin\Debug\LatihanUts_2016110062_Sukirno.exe.config
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\bin\Debug\LatihanUts_2016110062_Sukirno.exe
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\bin\Debug\LatihanUts_2016110062_Sukirno.pdb
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\bin\Debug\LatihanUts_2016110062_Sukirno.xml
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\obj\Debug\LatihanUts_2016110062_Sukirno.exe
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\obj\Debug\LatihanUts_2016110062_Sukirno.xml
+D:\LIKMI\dotnet Likmi\Vs2\LatihanUts_2016110062_Sukirno\LatihanUts_2016110062_Sukirno\obj\Debug\LatihanUts_2016110062_Sukirno.pdb
