@@ -11,3 +11,5 @@
 5. Ketika data pada ListBox di klik Maka akan tampil pada Gaji Karyawan dan Tersimpan Pada file(Bin/Debug/namaproject)
 
 ![WhatsApp Image 2020-11-05 at 14 17 22](https://user-images.githubusercontent.com/73946237/98214967-c1ed7280-1f79-11eb-9541-8f76ad1c0633.jpeg)
+
+![WhatsApp Image 2020-11-05 at 15 24 25](https://user-images.githubusercontent.com/73946237/98216037-1e9d5d00-1f7b-11eb-9f71-123c8273c2cb.jpeg)
